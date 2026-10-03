@@ -13,5 +13,6 @@ ahora los errores, yo solo me fui a la pokeapi para hacerlos ahi los errores no 
 el 404 lo provocaba poniendo mal algo en la url por ejemplo yo le quite el picachu y le puse claudiasheimbaun eso no lo encontro por que no existe y ahi el error
 el 401 es cuando pide una key api pero no se la dan y puse en el codigo de la poke api la url de weather map ese pide la apikey y como no estaba ahi no deja entrar y da error 401
 
+la respuestas que me daban eran concretas y buenas ya que me daban lo que yo les especificara y si tuviera que decir algo de los bytes podria decir que si no especificas arroja un monton de informacion innecesaria aunque no podria saber la cantidad que solo ocupo en verdad y cuanto "se pierde" o es innecesario
 
 
